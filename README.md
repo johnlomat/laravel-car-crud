@@ -9,6 +9,9 @@
 
 ## Deployment
 
+Run composer install to install dependencies
+`composer install`
+
 Config your database environment on the file `.env.example` and save it as `.env`
 
 Open your terminal and type `php artisan migrate` and then `php artisan serve`
