@@ -7,9 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Introduction
+
+This is a simple crud sample built in Laravel and tailwindCSS with user authentication.
+
 ## Deployment
 
-Run composer install to install dependencies
+Run composer install to install dependencies.
 `composer install`
 
 Config your database environment on the file `.env.example` and save it as `.env`
