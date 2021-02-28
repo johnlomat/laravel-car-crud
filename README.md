@@ -9,7 +9,7 @@
 
 ## Deployment
 
-Config your database environment on the file <span style="background-color:#e3e3e3">.env.example</span> and save it as <span style="background-color:#e3e3e3">.env</span>
+Config your database environment on the file `.env.example` and save it as `.env`
 
 
 
