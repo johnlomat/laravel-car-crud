@@ -16,7 +16,7 @@ This is a simple crud sample built in Laravel and tailwindCSS with user authenti
 Run composer install to install dependencies.
 `composer install`
 
-Config your database environment on the file `.env.example` and save it as `.env`
+Configure your database environment on the file `.env.example` and save it as `.env`
 
 Open your terminal and type `php artisan migrate` and then `php artisan serve`
 
