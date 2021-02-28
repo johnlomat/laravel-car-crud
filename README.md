@@ -11,9 +11,7 @@
 
 Config your database environment on the file `.env.example` and save it as `.env`
 
-
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Open your terminal and type `php artisan migrate` and then `php artisan serve`
 
 ## About Laravel
 
