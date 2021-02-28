@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Deployment
+
+Config your database environment on the file <span style="background-color:#e3e3e3">.env.example</span> and save it as <span style="background-color:#e3e3e3">.env</span>
+
+
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
